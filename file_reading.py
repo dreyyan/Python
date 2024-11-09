@@ -1,9 +1,7 @@
 with open('.txt/test.txt', 'r') as f:
-    f = open('.txt/test.txt', 'r')
     readContent = f.read()
     print(readContent)
 print(f'Mode: {f.mode}')
-f.close()
 
 # Basic
 # f = open('.txt/test.txt', 'r')
