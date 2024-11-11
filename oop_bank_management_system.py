@@ -9,6 +9,40 @@ class Bank:
         self.account_balance = account_balance
         Bank.account_count += 1
 
+    # [1] | Create Account
+    def CreateAccount(self):
+        print("creating account...")
+
+
+    # [2] | Deposit Funds
+    def DepositFunds(self):
+        print("depositing funds...")
+
+    # [3] | Withdraw Funds
+    def WithdrawFunds(self):
+        print("withdrawing funds...")
+
+    # [4] | View Account Details
+    def ViewAccountDetails(self):
+        print("viewing account details...")
+
+    # [5] | Update Account Information
+    def UpdateAccountInformation(self):
+        print("updating account information...")
+
+    # [6] | Close Account
+    def CloseAccount(self):
+        print("closing account...")
+
+    # [7] | Transaction History
+    def TransactionHistory(self):
+        print("viewing transaction history...")
+
+    # [8] | Exit
+    def Exit(self):
+        print("exiting system...")
+        exit()
+
     # Display Info
     def DisplayInfo(self):
         print(f'Account #{self.account_count}')
@@ -47,7 +81,42 @@ class Bank:
         print(f'>> Current Balance: ${self.account_balance}')
         print("-------------------------------------|")
 
-acc1 = Bank("001", "Adrian Tan")
-acc1.DisplayInfo()
-acc1.Deposit()
-acc1.Withdraw()
+    # Display Bank Menu
+    def DisplayMenu(self):
+        print("===+==+==+== iBMS ==+==+==+===")
+        print("| -Bank-Management-System- |")
+        print("-_-_-_-_-_-[BANK]-_-_-_-_-_-")
+        print("-------------------------------")
+        print("[1] | Create Account")
+        print("[2] | Deposit Funds")
+        print("[3] | Withdraw Funds")
+        print("[4] | View Account Details")
+        print("[5] | Update Account Information")
+        print("[6] | Close Account")
+        print("[7] | Transaction History")
+        print("[8] | Exit")
+        print("-------------------------------")
+
+        # Exception Handling
+        try:
+            choice = int(input(">> "))
+            if choice < 0 or choice > 8:
+                print("ERROR | out_of_bounds_input")
+
+        except ValueError:
+            print("ERROR | invalid_input")
+
+        else:
+            input_choice = {
+                1: CreateAccount,
+                2: DepositFunds,
+                3: WithdrawFunds,
+                4: ViewAccountDetails,
+                5: UpdateAccountInformation,
+                6: CloseAccount,
+                7: TransactionHistory,
+                8: Exit
+            }
+
+default = Bank("", "")
+default.DisplayMenu()
