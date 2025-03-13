@@ -1,0 +1,13 @@
+import turtle
+turtle.bgcolor('black')
+t = turtle.Turtle()
+t.pencolor('white')
+t.speed(100)
+t.forward(100)
+t.left(135)
+t.forward(150)
+t.left(90)
+t.forward(150)
+t.left(135)
+t.forward(100)
+turtle.done()
