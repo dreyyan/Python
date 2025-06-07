@@ -1,8 +1,8 @@
-def remove_empty_list(list):
-    for i in list:
+def removeEmptyList(lst) -> None:
+    for i in lst:
         if not i:
-            list.remove(i)
-    print(list)
+            lst.remove(i) # remove element if empty
+    print(lst)
 
-arr = [[], 1, 2, [1, 2], []]
-remove_empty_list(arr)
+lst = [[], 1, 2, [1, 2], []]
+removeEmptyList(lst)

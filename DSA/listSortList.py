@@ -1,6 +1,8 @@
-def sort_list(list):
+def sortList(lst) -> None:
+    lst.sort()
 
-    print(list)
+    for i in lst:
+        print(i, end=' ')
 
-test_list = [8, 5, 7, 3, 6, 4, 1, 9, 2]
-sort_list(test_list)
+lst = [8, 5, 7, 3, 6, 4, 1, 9, 2]
+sortList(lst)

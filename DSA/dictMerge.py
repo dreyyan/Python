@@ -1,6 +1,7 @@
-def dict_merge(d1, d2):
-    d1.update(d2)
-    print(d1)
-dict1 = {'a':1, 'b':2, 'c':3}
-dict2 = {'d':4, 'e':5}
-dict_merge(dict1, dict2)
+def mergeDict(dct1, dct2) -> None:
+    dct1.update(dct2)
+    print(dct1)
+
+dct1 = {'a': 1, 'b': 2}
+dct2 = {'c': 3, 'd': 4}
+mergeDict(dct1, dct2)

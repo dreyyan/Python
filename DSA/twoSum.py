@@ -6,7 +6,7 @@
 #                 return i, j
 
 # Optimized
-def twoSum(nums, target):
+def twoSum(nums, target) -> None:
     seen = {}
     for i, num in enumerate(nums):
         diff = target - num

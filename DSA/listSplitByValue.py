@@ -1,6 +1,5 @@
-def listSplitByValue(nums, target):
-    parentList = [] # to store sublists
-    subList = [] # to store numbers
+def splitByValue(nums, target):
+    parentList, subList = [], []
     i = 0
 
     while i < len(nums):
@@ -12,9 +11,9 @@ def listSplitByValue(nums, target):
             subList.append(nums[i]) # add element to the sublist
             i += 1
 
-    if subList: # add remaining elements to the sublist
-        parentList.append(subList)
+    if subList: 
+        parentList.append(subList) # add remaining elements to the sublist
 
-    print(parentList) # Display new list
+    print(parentList) 
 
-listSplitByValue([1, 2, 0, 3, 4, 0, 5], 0)
+splitByValue([1, 2, 0, 3, 4, 0, 5], 0)

@@ -1,11 +1,7 @@
-def return_duplicate_elements(arr1, arr2):
-    sets = set()
-    for i in arr1:
-        for j in arr2:
-            if i == j:
-                sets.add(i)
+def returnDuplicateElements(lst1, lst2) -> None:
+    sets = set(lst1) & set(lst2) # intersection of both sets, returns duplicates
     print(sets)
 
-arr1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-arr2 = [2, 4, 6, 8, 10]
-return_duplicate_elements(arr1, arr2)
+lst1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+lst2 = [2, 4, 6, 8, 10]
+returnDuplicateElements(lst1, lst2)

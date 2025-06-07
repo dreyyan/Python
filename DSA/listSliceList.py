@@ -1,21 +1,20 @@
-def slice_list(start, end):
-    org_list = []
-    first_list = []
-    second_list = []
+def sliceList(lst) -> None:
+    startList = []
+    endList = []
+    listSize = len(lst)
 
-    for i in range(start, end):
-        org_list.append(i + 1)
+    for i in range(listSize):
+        if i < listSize // 2:
+            startList.append(lst[i])
+        else:
+            endList.append(lst[i])
 
-    end_index = len(org_list) // 2
+    for i in startList:
+        print(i, end=' ')
 
-    for i in org_list[0:end_index]:
-        first_list.append(i)
+    print()
 
-    for j in org_list[end_index:]:
-        second_list.append(j)
+    for i in endList:
+        print(i, end=' ')
 
-    print(f'Original List: {org_list}')
-    print(f'First List: {first_list}')
-    print(f'Second List: {second_list}')
-    
-slice_list(0, 10)
+sliceList([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])

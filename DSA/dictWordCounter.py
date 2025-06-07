@@ -1,16 +1,22 @@
-# PROBLEM: Given a string input from the user, count & display the # of words in the sentence
-user_input = input("Enter a sentence: ").lower().strip() # Prompt user to enter a sentence
-words = {} # To store the words
-current_word = "" # To store current word
+def wordCounter(string) -> None:
+    string = string.lower().strip() # remove leading & trailing whitespaces
+    wordCount = {}
+    word: str = ""
 
-for c in user_input: # Iterate characters in the sentence
-    if c == ' ': # If character is a whitespace
-        words[current_word] = words.get(current_word, 0) + 1 # Set/increment word frequency
-        current_word = "" # Reset current word
-        continue # Skip iteration
-    current_word += c # Adds character to the current word
+    for c in string:
+        if c == ' ':
+            if word: # makes sure blank words are not counted
+                wordCount[word] = wordCount.get(word, 0) + 1
+                word = ""
+        else:
+            word += c
 
-if current_word: # Count the last word(if any)
-    words[current_word] = words.get(current_word, 0) + 1
+    if word: # count last word if any
+        wordCount[word] = wordCount.get(word, 0) + 1
 
-print(f"# of word/s: {len(words)}") # Display result
+    for key, value in wordCount.items():
+        print(f"{key}: {value}")
+
+
+
+wordCounter(" hello world  Hello World   hello")

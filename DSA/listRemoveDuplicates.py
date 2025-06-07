@@ -1,14 +1,12 @@
-def listRemoveDuplicates(nums):
-    nums.sort() # Sort list for easy removal
-    newList = [] # To store the list of first occurence elements
+def removeDuplicates(nums) -> None:
+    nums.sort() # sort list for easy removal
+    newList = []
 
-    # Append first occurence elements to the new list
     for i in nums:
         if i not in newList:
-            newList.append(i)
+            newList.append(i) # append element if not yet listed
 
-    # Display new list
     for i in newList:
         print(i, end=' ')
 
-listRemoveDuplicates([1, 1, 2, 3, 3, 3, 4, 5, 5])
+removeDuplicates([1, 1, 2, 3, 3, 3, 4, 5, 5])

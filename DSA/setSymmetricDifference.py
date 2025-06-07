@@ -1,6 +1,6 @@
-def symmetric_difference(set1, set2):
-    print(set1 ^ set2)
+def symmetricDifference(set1, set2) -> None:
+    print(set1 ^ set2) # return elements unique from each other
 
-test_set1 = {1, 2, 3, 4, 5}
-test_set2 = {3, 4, 5, 6, 7}
-symmetric_difference(test_set1, test_set2)
+set1 = {1, 2, 3, 4, 5}
+set2 = {3, 4, 5, 6, 7}
+symmetricDifference(set1, set2)

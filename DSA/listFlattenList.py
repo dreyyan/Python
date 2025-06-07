@@ -1,15 +1,13 @@
-def listFlattenList(nums):
-    newList = [] # To store the flattened list
+def flattenList(lst) -> list:
+    flattenedList = []
 
-    for i in nums:
-        if isinstance(i, list):
-            listFlattenList(i)
+    for i in lst:
+        if isinstance(i, list): # recursively add flattened list
+            flattenedList.extend(flattenList(i))
         else:
-            newList.append(i)
-    
-    # Display flattened list
-    for i in newList:
-        print(i, end=' ')
-    
+            flattenedList.append(i)
 
-listFlattenList([[[1, 2], 3], [4, 5]])
+    return flattenedList
+
+lst = [[[1, 2], 3, 4], 5, 6]
+print(flattenList(lst))

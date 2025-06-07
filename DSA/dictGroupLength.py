@@ -1,13 +1,16 @@
-def group_length(t1):
-    dict = {}
-    length = 0
-    letter_count = 0
-    for i in t1:
-        length = len(i)
-        if length not in dict:
-            dict[length] = [i]
+def groupLength(lst) -> None:
+    wordsByLength = {}
+
+    for word in lst:
+        length = len(word)
+
+        if length not in wordsByLength:
+            wordsByLength[length] = [word]
         else:
-            dict[length].append(i)
-    print(dict)
-test_list = ['cat', 'ocean', 'dog', 'river', 'goat']
-group_length(test_list)
+            wordsByLength[length].append(word) 
+
+    for key, value in wordsByLength.items():
+        print(f"{key}: {value}")
+
+lst = ['cat', 'ocean', 'dog', 'river', 'goat']
+groupLength(lst)

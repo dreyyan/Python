@@ -1,4 +1,4 @@
-def listGenerateCartestianProduct(lst1, lst2):
+def listGenerateCartestianProduct(lst1, lst2) -> None:
     cartesianProduct = []
     sublist = []
 

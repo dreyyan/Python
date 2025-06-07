@@ -1,4 +1,4 @@
-def listInPlaceCompression(nums):
+def inPlaceCompression(nums) -> None:
     i = 1
 
     while i < len(nums):
@@ -7,8 +7,6 @@ def listInPlaceCompression(nums):
         else:
             i += 1
 
-    for i in nums: 
-        print(i)
-       
+    print(nums)       
 
-listInPlaceCompression([1, 1, 2, 2, 2, 3, 1])
+inPlaceCompression([1, 1, 2, 2, 2, 3, 1])

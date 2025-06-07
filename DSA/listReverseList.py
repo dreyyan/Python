@@ -1,6 +1,6 @@
-def reverseList(list):
-    list.reverse()
-    print(list)
+def reverseList(lst) -> None:
+    lst.reverse()
+    print(lst)
 
-test_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-reverseList(test_list)
+lst = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+reverseList(lst)

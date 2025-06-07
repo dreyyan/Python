@@ -1,6 +1,6 @@
-def set_difference(set1, set2):
-    print(set1 - set2)
+def difference(set1, set2) -> None:
+    print(set1 - set2) # unique elements in set1 
 
-test_set1 = {1, 2, 3, 4, 5}
-test_set2 = {3, 4, 5, 6, 7}
-set_difference(test_set1, test_set2)
+set1 = {1, 2, 3, 4, 5}
+set2 = {3, 4, 5, 6, 7}
+difference(set1, set2)
