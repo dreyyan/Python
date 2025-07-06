@@ -1,0 +1,101 @@
+SightingID,ObserverName,Species,Count,Location,Latitude,Longitude,DateObserved,TimeObserved,Weather,Activity,Notes,PhotoTaken
+1,j.k. chang,Turtle,nine,North Meadow,35.94256,-119.218272,06/29/2024,afternoon,Rainy,Resting,n/a,n
+2,CHRIS wu,Squirrel,eight,Lakeview Trail,35.747132,-119.580363,2024-06-28,afternoon,Overcast,Eating,🦌 Grazing peacefully.,n
+3,j.k. chang,Deer,eight,Lakeview Trail,35.989993,-119.070906,06/01/2024,evening,Overcast,Swimming,Looked healthy!,Yes
+4,kim lee,Squirrel,one,Central Path,35.839801,-119.249197,06/28/2024,morning,cloudy,Resting,🐿️ ran across path!,Yes
+5,kim lee,Hawk,7,North Meadow,35.135813,-119.496945,06/10/2024,06:45,cloudy,Resting,Seemed scared 😨,Yes
+6,kim lee,Turtle,one,North Meadow,35.37848,-119.289782,2024-06-21,06:45,Cloudy,Resting,Looked healthy!,No
+7,maria flores,Hawk,ten,North Meadow,35.772681,-119.26291,2024-06-30,afternoon,Sunny,Running,Too quick to photograph!,yes
+8,j.k. chang,Deer,ten,Lakeview Trail,35.944747,-119.234504,"June 09, 2024",06:45,cloudy,Resting,no notes,yes
+9,alex taylor,Deer,7,North Meadow,35.094675,-119.076601,2024-06-18,morning,Rainy,Eating,🐿️ ran across path!,No
+10,Dana LOPEZ,Hawk,eight,North Meadow,35.578943,-119.605547,2024-06-30,06:45,cloudy,Swimming,no notes,No
+11,j.k. chang,Raccoon,one,Riverbend,35.631899,-119.375876,"June 22, 2024",afternoon,Cloudy,Swimming,🦌 Grazing peacefully.,Yes
+12,ashley moore,Raccoon,4,Woodland Edge,35.573388,-119.032978,06/18/2024,afternoon,sun,Eating,🦌 Grazing peacefully.,Yes
+13,Dana LOPEZ,Deer,5,Lakeview Trail,35.474823,-119.201972,06/09/2024,06:45,Rainy,Swimming,n/a,no
+14,j.k. chang,Turtle,4,Lakeview Trail,35.427756,-119.147356,"June 05, 2024",morning,Rainy,Eating,Looked healthy!,yes
+15,CHRIS wu,Hawk,5,Woodland Edge,35.338478,-119.226323,"July 01, 2024",2:30 PM,Overcast,Eating,Seemed scared 😨,y
+16,Dana LOPEZ,Raccoon,4,Woodland Edge,35.358119,-119.326205,2024-06-03,14:30,cloudy,Eating,Looked healthy!,n
+17,ashley moore,Hawk,ten,Central Path,35.060836,-119.89007,06/01/2024,2:30 PM,cloudy,Eating,Too quick to photograph!,no
+18,j.k. chang,Raccoon,7,Riverbend,35.031146,-119.286533,"June 12, 2024",06:45,sun,Eating,Too quick to photograph!,y
+19,Dana LOPEZ,Deer,eight,Riverbend,35.176423,-119.822483,"June 17, 2024",morning,Sunny,Eating,Looked healthy!,yes
+20,Jordan K.,Turtle,three,North Meadow,35.855752,-119.230723,2024-06-21,06:45,Cloudy,Running,🐿️ ran across path!,y
+21,CHRIS wu,Turtle,ten,Woodland Edge,35.856095,-119.370373,06/18/2024,afternoon,Rainy,Running,no notes,no
+22,maria flores,Raccoon,7,Woodland Edge,35.586306,-119.907954,06/18/2024,2:30 PM,cloudy,Running,🐿️ ran across path!,n
+23,Jordan K.,Hawk,4,Woodland Edge,35.313716,-119.897397,"June 25, 2024",14:30,sun,Swimming,🦌 Grazing peacefully.,yes
+24,j.k. chang,Turtle,5,Riverbend,35.47299,-119.202394,"June 28, 2024",afternoon,Rainy,Swimming,🦌 Grazing peacefully.,Yes
+25,Dana LOPEZ,Hawk,six,Woodland Edge,35.367162,-119.869775,07/01/2024,morning,Cloudy,Running,n/a,Yes
+26,j.k. chang,Turtle,one,Lakeview Tral,35.645422,-119.848828,06/29/2024,06:45,Rainy,Swimming,Seemed scared 😨,no
+27,maria flores,Hawk,nine,Woodland Edge,35.862809,-119.367864,2024-06-16,06:45,Cloudy,Flying,Seemed scared 😨,Yes
+28,Jordan K.,Deer,nine,Riverbend,35.803059,-119.765685,"June 15, 2024",evening,Cloudy,Running,🐿️ ran across path!,n
+29,alex taylor,Squirrel,5,Lakeview Tral,35.637846,-119.987833,06/25/2024,afternoon,Sunny,Running,🦌 Grazing peacefully.,n
+30,alex taylor,Hawk,six,Lakeview Tral,35.211155,-119.686672,2024-06-03,evening,Rainy,Eating,🦌 Grazing peacefully.,yes
+31,Dana LOPEZ,Raccoon,ten,Lakeview Tral,35.722316,-119.284024,06/10/2024,06:45,Sunny,Flying,n/a,Yes
+32,CHRIS wu,Squirrel,nine,Woodland Edge,35.473578,-119.00257,"June 27, 2024",morning,Overcast,Swimming,🦌 Grazing peacefully.,Yes
+33,alex taylor,Squirrel,two,Central Path,35.335755,-119.136702,2024-06-23,14:30,cloudy,Swimming,Seemed scared 😨,No
+34,j.k. chang,Turtle,nine,Riverbend,35.622635,-119.506405,06/10/2024,morning,Rainy,Eating,🦌 Grazing peacefully.,n
+35,kim lee,Hawk,4,Lakeview Tral,35.051557,-119.795916,06/26/2024,morning,Cloudy,Swimming,🐿️ ran across path!,No
+36,j.k. chang,Turtle,5,Central Path,35.702044,-119.737666,2024-06-04,14:30,Rainy,Running,🦌 Grazing peacefully.,y
+37,maria flores,Raccoon,nine,Lakeview Trail,35.526039,-119.605178,2024-06-15,2:30 PM,Rainy,Swimming,Too quick to photograph!,yes
+38,Dana LOPEZ,Turtle,six,North Meadow,35.420044,-119.735354,"June 22, 2024",afternoon,sun,Running,🐿️ ran across path!,no
+39,Dana LOPEZ,Hawk,ten,Lakeview Trail,35.601065,-119.679713,2024-06-27,afternoon,Cloudy,Eating,🦌 Grazing peacefully.,y
+40,kim lee,Deer,ten,Lakeview Trail,35.980445,-119.750234,2024-06-21,14:30,cloudy,Running,no notes,y
+41,j.k. chang,Turtle,7,Woodland Edge,35.253581,-119.718601,"June 09, 2024",06:45,sun,Resting,Seemed scared 😨,yes
+42,kim lee,Hawk,one,Lakeview Tral,35.908495,-119.997769,06/02/2024,2:30 PM,Cloudy,Running,no notes,y
+43,maria flores,Deer,7,North Meadow,35.387073,-119.429763,06/26/2024,14:30,Cloudy,Running,Too quick to photograph!,No
+44,ashley moore,Squirrel,ten,Riverbend,35.251818,-119.344415,06/23/2024,afternoon,Cloudy,Resting,Seemed scared 😨,No
+45,Dana LOPEZ,Raccoon,5,Lakeview Trail,35.578586,-119.394207,2024-06-26,2:30 PM,Cloudy,Swimming,🦌 Grazing peacefully.,no
+46,alex taylor,Hawk,two,Riverbend,35.883271,-119.091909,06/22/2024,14:30,cloudy,Swimming,Too quick to photograph!,n
+47,ashley moore,Squirrel,six,Riverbend,35.219264,-119.561835,"June 25, 2024",14:30,Cloudy,Swimming,🦌 Grazing peacefully.,y
+48,CHRIS wu,Raccoon,two,Riverbend,35.968698,-119.918526,06/19/2024,morning,Sunny,Swimming,Seemed scared 😨,Yes
+49,kim lee,Raccoon,two,Riverbend,35.601914,-119.661245,06/17/2024,morning,Overcast,Running,🦌 Grazing peacefully.,No
+50,ashley moore,Squirrel,two,Riverbend,35.354347,-119.604566,2024-06-19,06:45,Sunny,Resting,🦌 Grazing peacefully.,y
+51,j.k. chang,Turtle,nine,Lakeview Trail,35.205647,-119.137404,06/16/2024,afternoon,Cloudy,Eating,no notes,y
+52,j.k. chang,Turtle,one,Woodland Edge,35.757768,-119.879995,2024-06-04,2:30 PM,sun,Running,Seemed scared 😨,Yes
+53,Jordan K.,Hawk,nine,Woodland Edge,35.702692,-119.671714,"June 21, 2024",morning,Rainy,Resting,🦌 Grazing peacefully.,no
+54,Dana LOPEZ,Turtle,4,North Meadow,35.909433,-119.320134,"June 14, 2024",afternoon,Rainy,Eating,Seemed scared 😨,no
+55,kim lee,Turtle,nine,Riverbend,35.436055,-119.580603,"June 05, 2024",2:30 PM,Overcast,Eating,🐿️ ran across path!,No
+56,ashley moore,Hawk,ten,Woodland Edge,35.659826,-119.032336,06/21/2024,evening,Cloudy,Eating,no notes,y
+57,Jordan K.,Hawk,one,Woodland Edge,35.435829,-119.32215,06/07/2024,morning,Rainy,Flying,n/a,n
+58,CHRIS wu,Hawk,5,North Meadow,35.780623,-119.526657,2024-06-18,2:30 PM,Sunny,Swimming,🦌 Grazing peacefully.,Yes
+59,Jordan K.,Hawk,three,Riverbend,35.696613,-119.54748,"June 29, 2024",evening,Cloudy,Flying,no notes,no
+60,Jordan K.,Raccoon,nine,Lakeview Tral,35.412764,-119.556455,06/16/2024,afternoon,Overcast,Running,Seemed scared 😨,Yes
+61,j.k. chang,Hawk,5,Lakeview Tral,35.283025,-119.811587,"June 09, 2024",morning,sun,Eating,Seemed scared 😨,n
+62,j.k. chang,Hawk,5,Lakeview Tral,35.405628,-119.793297,"June 26, 2024",afternoon,Cloudy,Eating,Seemed scared 😨,y
+63,Jordan K.,Turtle,one,Riverbend,35.61978,-119.635643,"June 25, 2024",14:30,sun,Running,🦌 Grazing peacefully.,n
+64,alex taylor,Raccoon,three,North Meadow,35.189845,-119.65841,2024-06-04,morning,cloudy,Flying,🐿️ ran across path!,yes
+65,alex taylor,Deer,5,Lakeview Tral,35.417933,-119.269773,"June 22, 2024",06:45,Cloudy,Eating,Too quick to photograph!,yes
+66,alex taylor,Hawk,three,Lakeview Tral,35.900484,-119.400638,06/15/2024,evening,Sunny,Running,n/a,y
+67,ashley moore,Raccoon,5,Lakeview Trail,35.635401,-119.164895,06/23/2024,14:30,Overcast,Eating,🐿️ ran across path!,n
+68,ashley moore,Squirrel,4,Riverbend,35.229184,-119.123205,"June 14, 2024",06:45,Rainy,Flying,Seemed scared 😨,No
+69,Jordan K.,Squirrel,two,Lakeview Trail,35.117312,-119.617998,2024-06-16,2:30 PM,Cloudy,Flying,no notes,No
+70,CHRIS wu,Squirrel,7,Riverbend,35.281489,-119.227664,06/27/2024,14:30,sun,Swimming,🐿️ ran across path!,yes
+71,kim lee,Squirrel,one,Riverbend,35.089331,-119.839449,06/11/2024,2:30 PM,Rainy,Resting,Seemed scared 😨,no
+72,alex taylor,Hawk,4,Lakeview Tral,35.790436,-119.020112,06/10/2024,14:30,sun,Flying,no notes,no
+73,CHRIS wu,Squirrel,nine,Riverbend,35.3978,-119.746889,06/04/2024,morning,Rainy,Flying,no notes,yes
+74,kim lee,Deer,three,North Meadow,35.98554,-119.141353,06/09/2024,evening,Overcast,Running,n/a,no
+75,Dana LOPEZ,Raccoon,5,Woodland Edge,35.359648,-119.548392,"June 17, 2024",14:30,Rainy,Swimming,no notes,y
+76,j.k. chang,Squirrel,six,Woodland Edge,35.061028,-119.855108,"June 08, 2024",06:45,sun,Resting,Too quick to photograph!,yes
+77,ashley moore,Turtle,three,Woodland Edge,35.68239,-119.804538,"June 18, 2024",evening,Rainy,Flying,🐿️ ran across path!,No
+78,alex taylor,Hawk,ten,Central Path,35.360394,-119.050323,2024-06-30,afternoon,Sunny,Resting,Looked healthy!,yes
+79,alex taylor,Hawk,nine,North Meadow,35.401372,-119.984449,"June 13, 2024",2:30 PM,Rainy,Running,🐿️ ran across path!,no
+80,Dana LOPEZ,Hawk,4,North Meadow,35.123139,-119.003657,2024-06-23,2:30 PM,Sunny,Running,🐿️ ran across path!,yes
+81,kim lee,Hawk,two,Lakeview Tral,35.241964,-119.995206,"June 22, 2024",2:30 PM,cloudy,Running,🦌 Grazing peacefully.,n
+82,alex taylor,Turtle,three,Woodland Edge,35.621883,-119.18663,2024-06-29,morning,Sunny,Resting,n/a,No
+83,j.k. chang,Deer,nine,North Meadow,35.436943,-119.784172,06/08/2024,morning,Sunny,Resting,Too quick to photograph!,y
+84,j.k. chang,Hawk,six,Central Path,35.554298,-119.779551,"June 26, 2024",2:30 PM,Sunny,Resting,🐿️ ran across path!,yes
+85,maria flores,Turtle,eight,Woodland Edge,35.202803,-119.106328,2024-06-18,evening,Sunny,Swimming,Too quick to photograph!,n
+86,ashley moore,Squirrel,nine,Lakeview Trail,35.015195,-119.040697,2024-06-08,afternoon,Rainy,Swimming,no notes,yes
+87,j.k. chang,Turtle,two,Lakeview Trail,35.325178,-119.32987,"June 24, 2024",evening,cloudy,Swimming,n/a,yes
+88,Jordan K.,Raccoon,eight,Central Path,35.886974,-119.27648,"June 05, 2024",evening,Cloudy,Swimming,Too quick to photograph!,n
+89,Dana LOPEZ,Hawk,4,Woodland Edge,35.562302,-119.32714,"June 02, 2024",evening,Cloudy,Swimming,n/a,no
+90,kim lee,Turtle,six,Lakeview Trail,35.220739,-119.262059,2024-06-22,evening,Sunny,Flying,no notes,y
+91,CHRIS wu,Raccoon,nine,Lakeview Tral,35.441742,-119.060794,06/22/2024,evening,cloudy,Eating,no notes,y
+92,alex taylor,Hawk,three,Lakeview Trail,35.460273,-119.313391,06/23/2024,06:45,Rainy,Resting,Too quick to photograph!,Yes
+93,Dana LOPEZ,Deer,two,Lakeview Trail,35.246174,-119.2994,2024-07-01,morning,Overcast,Resting,Seemed scared 😨,No
+94,kim lee,Squirrel,5,Lakeview Tral,35.835208,-119.213422,2024-06-08,morning,sun,Resting,Seemed scared 😨,yes
+95,j.k. chang,Raccoon,two,Riverbend,35.552309,-119.047161,"June 01, 2024",2:30 PM,sun,Eating,Looked healthy!,No
+96,j.k. chang,Raccoon,nine,Woodland Edge,35.95721,-119.5785,2024-06-03,2:30 PM,cloudy,Eating,no notes,No
+97,maria flores,Raccoon,three,Lakeview Tral,35.042273,-119.263951,"June 04, 2024",14:30,cloudy,Resting,Looked healthy!,No
+98,Dana LOPEZ,Deer,4,Riverbend,35.687093,-119.121393,06/19/2024,14:30,Rainy,Eating,no notes,No
+99,Dana LOPEZ,Hawk,six,Lakeview Tral,35.13839,-119.79135,2024-06-13,06:45,cloudy,Resting,Too quick to photograph!,y
+100,Dana LOPEZ,Turtle,nine,Lakeview Tral,35.911793,-119.439061,"June 29, 2024",evening,sun,Resting,n/a,yes

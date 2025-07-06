@@ -1,0 +1,101 @@
+OrderID,CustomerName,Email,FlowerType,Quantity,PricePerStem,OrderDate,DeliveryDate,Review,Rating,DeliveryStatus,PaymentStatus
+A5632,rebecca rodriguez,ichristian@example.com,Roses,9,$3.32,2025-04-21,2025-04-19,Nice 🌹! nice!!,,Pending,paid
+A5299,anthony barron,carlostrujillo@example.com,orchid,11,$0.66,2025-03-20,2025-03-18,Nice 🌹! nice!!,★★★,Pending,unpaid
+A2911,amy smith,francisaaron@example.com,Tulips,12,$1.97,2025-05-13,2025-05-13,,4 stars,In Transit,Paid
+A1930,thomas white,nicole50@example.org,rose,16,$1.71,2025-03-20,2025-03-22,Bad packaging 😠,3,In Transit,Unpaid
+A4834,nathan mendez,hubbardclaudia@example.net,lilies,9,$0.64,2025-02-05,2025-02-10,excellent service,,Delivered,paid
+A7969,michael smith,jeffrey39@example.com,lilies,9,$3.57,2025-03-08,,Nice 🌹! nice!!,⭐⭐⭐⭐⭐,In Transit,unpaid
+A4924,brittany munoz,wilsonstephen@example.com,orchid,ten,$0.97,2025-01-14,2025-01-18,excellent service,⭐⭐⭐⭐,Pending,Unpaid
+A7815,courtney duffy,andrea69@example.org,Tulips,5,$1.73,2025-01-12,2025-01-10,Awesome!!!,★★★,deliverd,Unpaid
+A6769,leslie ray,hannahperez@example.com,Roses,4,$4.51,2025-02-02,2025-02-01,Late delivery,2,pending,PAID
+A1209,tonya reeves,dmartinez@example.com,sun flower,14,$1.29,2025-04-06,2025-04-09,Will buy again,⭐⭐⭐⭐,pending,PAID
+A2431,isaiah bowman,smithryan@example.net,roses,7,$4.88,2025-04-11,2025-04-11,Nice 🌹! nice!!,⭐⭐⭐⭐,pending,unpaid
+A6335,anna martinez,janelittle@example.net,Tulips,17,$0.74,2025-03-03,2025-03-05,"on time, good flowers",,deliverd,Paid
+A5124,stephen heath,michellegarcia@example.org,Sunflowers,1,"1,07",2025-05-21,2025-05-25,"on time, good flowers",⭐⭐⭐⭐,in transit,unpaid
+A9102,eric mosley,hallen@example.net,lilies,18,$2.80,2025-05-30,,Will buy again,★,deliverd,paid
+A7548,jared mullins,shelly90@example.net,Roses,6,$2.87,2025-03-18,2025-03-20,Great!,★,deliverd,Paid
+A5496,karl martin,xsmith@gmail,Sunflowers,9,$2.31,2025-03-12,,Awesome!!!,1,In Transit,Unpaid
+A4913,rebecca pena,porterpeter@example.com,sun flower,9,$2.10,2025-02-26,2025-03-02,,3,In Transit,paid
+A9601, KATHY MILLER ,brooke29@example.net,rose,9,$4.24,2025-05-13,2025-05-15,Awesome!!!,★,Pending,unpaid
+A3257,michael day,ibecker@example.net,tulips,19,"3,13",2025-02-28,2025-03-01,Awesome!!!,★,Pending,PAID
+A7973,dana pineda,mia19@example.com,rose,14,$4.57,2025-03-15,2025-03-14,Awesome!!!,2,in transit,Paid
+A7504,justin mata,mayjamie@example.com,lilies,19,$2.25,2025-02-10,2025-02-11,excellent service,,pending,paid
+A6812,jose jones,dunnamy@example.net,Lilies,19,$3.21,2025-04-04,2025-04-07,Will buy again,2,In Transit,Unpaid
+A5451,anthony lucas,ruizsusan@example.com,Tulips,18,"1,69",2025-02-18,,Bad packaging 😠,3,Delivered,paid
+A7682,ann shelton,krobinson@example.org,Sunflowers,20,$1.88,2025-04-06,2025-04-08,Will buy again,,Pending,Paid
+A6401,shawn sanders,melinda01@example.org,orchid,13,$3.49,2025-05-14,2025-05-13,excellent service,★★★,In Transit,Paid
+A1737,sonya long,tinaschwartz@example.net,Tulips,ten,$2.57,2025-01-16,2025-01-20,excellent service,3,pending,PAID
+A9512,cassandra morgan,clarkrobert@example.net,roses,11,$2.86,2025-03-23,2025-03-27,Nice 🌹! nice!!,,in transit,Paid
+A2038,samuel christensen,bondlori@example.org,Orchids,12,$2.96,2025-01-20,2025-01-22,Nice 🌹! nice!!,★★★,Pending,PAID
+A3387,eric santana,lisa92@example.com,orchid,10,$3.96,2025-04-16,2025-04-19,Will buy again,,In Transit,PAID
+A5145,steven delacruz,foxdaniel@example.org,Sunflowers,14,$3.89,2025-03-04,2025-03-03,"on time, good flowers",★★★,in transit,Unpaid
+A6011,mary rodriguez,rhonda18@example.net,sun flower,8,$3.36,2025-01-11,,Bad packaging 😠,,in transit,PAID
+A5315,william smith,sjimenez@example.net,Orchids,4,$4.55,2025-05-19,2025-05-22,Late delivery,⭐⭐⭐⭐⭐,in transit,payed
+A5444,mr. adam sheppard,peggy17@example.org,Orchids,11,$0.76,2025-03-07,2025-03-08,okayish,2,Delivered,Unpaid
+A3386,jessica king,ashley59@example.net,Orchids,17,$4.04,2025-02-15,2025-02-15,Late delivery,★★★,Delivered,unpaid
+A9036,joan hanson,barbara60@example.com,rose,7,$4.70,2025-04-08,2025-04-07,Nice 🌹! nice!!,1,Delivered,PAID
+A2313,sharon brown,sarahclark@example.net,Roses,ten,$2.86,2025-01-04,2025-01-04,"on time, good flowers",★★★,In Transit,Unpaid
+A1737,ruth young,zachary79@example.net,rose,5,$0.91,2025-02-04,2025-02-04,Late delivery,★,in transit,paid
+A9913, LAURA STEPHENS ,thomas69@example.com,lilies,20,"0,57",2025-05-27,2025-05-28,Awesome!!!,⭐⭐⭐⭐,In Transit,unpaid
+A6605,danielle howard,jreid@gmail,tulips,15,$4.52,2025-01-20,,Great!,★,deliverd,paid
+A1638,jeffery smith,bellsheila@example.org,roses,10,$3.96,2025-02-17,2025-02-15,Late delivery,,Delivered,PAID
+A3065,michael bowman,hsmith@example.com,Roses,16,$1.22,2025-04-06,2025-04-09,Nice 🌹! nice!!,2,deliverd,Paid
+A1939, WILLIAM BROCK ,whitedaniel@example.org,Orchids,4,$3.83,2025-01-07,2025-01-09,"on time, good flowers",⭐⭐⭐⭐⭐,Pending,Unpaid
+A1207,julia osborn,zjohnson@gmail,Lilies,5,"1,09",2025-04-16,,Nice 🌹! nice!!,⭐⭐⭐⭐⭐,pending,PAID
+A9044,brandi mclean,daniel84@example.net,roses,3,$3.11,2025-03-18,2025-03-22,Nice 🌹! nice!!,⭐⭐⭐⭐,in transit,unpaid
+A4878,barbara silva,cookrachel@example.org,Roses,8,$3.41,2025-02-11,2025-02-10,Nice 🌹! nice!!,★,pending,unpaid
+A8036,tracy schmitt,melissathomas@example.com,tulips,14,$4.80,2025-01-06,2025-01-04,excellent service,,Pending,paid
+A9612,tara koch,carramanda@example.net,Orchids,14,$3.42,2025-05-30,2025-05-30,,3,Delivered,unpaid
+A3499,cheyenne fox,jessica30@example.com,lilies,3,$3.72,2025-05-18,,Late delivery,★★★,pending,Unpaid
+A2090,rebecca shaffer,rbrown@gmail,rose,9,$1.35,2025-03-20,,Great!,5,pending,PAID
+A8229,ronnie lawson,alfred81@example.com,tulips,7,$1.82,2025-04-26,2025-04-30,Nice 🌹! nice!!,★★★,deliverd,Unpaid
+A7026, ANTHONY BARAJAS ,alvarezlisa@example.org,Orchids,9,$1.32,2025-05-30,2025-05-30,Late delivery,⭐⭐⭐⭐⭐,In Transit,Unpaid
+A2155,heather lee,troy77@example.net,Lilies,15,$1.92,2025-05-12,2025-05-11,"on time, good flowers",5,pending,payed
+A4328,mikayla garcia,sonyacox@example.org,Sunflowers,19,$4.20,2025-06-01,2025-06-01,Awesome!!!,★★★,deliverd,payed
+A4834,alexander stokes,castanedamatthew@example.net,rose,11,$3.87,2025-04-19,2025-04-24,Great!,★,in transit,payed
+A7769,kayla berry,dcruz@example.org,Tulips,3,$1.02,2025-02-28,2025-03-01,excellent service,★★★,in transit,Unpaid
+A9987,joseph chapman,davidclark@example.net,Roses,9,$1.41,2025-01-03,2025-01-05,Late delivery,5,Delivered,PAID
+A2202,mr. jeff livingston,falvarez@example.com,rose,6,"3,22",2025-01-17,2025-01-19,Great!,2,Delivered,payed
+A2434,reginald ramirez,whurst@example.org,orchid,17,$4.45,2025-05-21,2025-05-22,Late delivery,,In Transit,unpaid
+A9517,dominic austin,elizabeth51@example.net,orchid,4,"4,13",2025-03-08,2025-03-09,,5,in transit,Paid
+A9901,rodney brown,sean40@example.org,Lilies,2,$2.21,2025-01-11,2025-01-16,Bad packaging 😠,★,Delivered,PAID
+A8352,phillip baker,cobbtiffany@example.org,rose,2,$4.75,2025-05-04,,Bad packaging 😠,★★★,Delivered,Paid
+A5138,jeffrey schneider,jenniferchavez@example.com,Tulips,9,$2.76,2025-02-16,2025-02-18,Nice 🌹! nice!!,⭐⭐⭐⭐⭐,Delivered,Unpaid
+A8582,kevin bowen,karireynolds@example.net,tulips,18,$3.48,2025-05-24,,Great!,3,pending,unpaid
+A8343,laurie wagner,bryanbecky@example.org,roses,1,$3.86,2025-01-04,2025-01-06,excellent service,★★★,Delivered,Unpaid
+A9098,kimberly harris,deborahjohns@example.com,sun flower,6,$1.34,2025-03-26,2025-03-26,excellent service,2,In Transit,unpaid
+A5580,joel hernandez,stanleysimpson@example.org,Roses,13,$3.13,2025-04-30,2025-05-02,Will buy again,⭐⭐⭐⭐⭐,Delivered,Paid
+A8874, YOLANDA LAMBERT ,uwest@example.org,Lilies,-5,$4.27,2025-03-26,2025-03-26,Bad packaging 😠,2,in transit,paid
+A8040,charles brown,watkinskevin@example.com,lilies,-5,$4.88,2025-04-30,2025-05-01,excellent service,5,pending,unpaid
+A1629, LISA JACKSON ,valerie69@example.com,Tulips,12,$3.32,2025-05-09,2025-05-10,Awesome!!!,⭐⭐⭐⭐,pending,Unpaid
+A7639,denise graham,makaylareynolds@example.com,rose,16,"2,96",2025-05-30,2025-05-28,Great!,5,in transit,payed
+A4218, COURTNEY SMITH ,john11@example.net,tulips,3,$2.51,2025-01-15,2025-01-19,Great!,,deliverd,Paid
+A6005,erica reilly,gilbertnatalie@example.com,Tulips,7,$3.94,2025-01-10,2025-01-12,okayish,1,deliverd,payed
+A7499, SHARON FERNANDEZ ,davidgross@example.org,lilies,7,"1,61",2025-05-14,,Awesome!!!,★★★,in transit,Paid
+A8490,brett payne,jack95@example.net,tulips,10,$2.28,2025-02-01,2025-01-30,Nice 🌹! nice!!,3,In Transit,PAID
+A3290,keith cooley,mclaughlinjamie@example.org,Sunflowers,18,$0.67,2025-05-20,2025-05-18,Will buy again,3,deliverd,payed
+A7065,kelly cameron,claytonbrown@example.org,tulips,1,$4.19,2025-02-24,,,1,in transit,unpaid
+A8043,jose garza,brandyparker@example.com,Tulips,17,$3.77,2025-02-24,2025-02-22,Great!,1,in transit,Unpaid
+A3871,jacob wells,gabrielle68@example.org,Lilies,6,$1.95,2025-04-08,2025-04-07,excellent service,⭐⭐⭐⭐,pending,payed
+A1863,kayla webster,joseph25@example.net,Lilies,1,$3.28,2025-04-15,,okayish,★,Pending,PAID
+A8927,stacy smith,jordanjohnson@gmail,orchid,13,"4,09",2025-05-11,,,1,Pending,paid
+A3957, JULIE JENKINS ,hendrixmary@example.net,Sunflowers,7,$0.89,2025-04-05,2025-04-03,excellent service,2,In Transit,paid
+A1862,michael lyons,annenolan@gmail,Roses,19,$1.57,2025-03-18,2025-03-18,excellent service,1,Pending,unpaid
+A9150,andrew beck,lyoung@example.org,Lilies,2,$4.62,2025-04-21,2025-04-24,"on time, good flowers",1,In Transit,payed
+A4562,paula gray,madisonbond@example.net,Sunflowers,7,$4.07,2025-05-05,2025-05-06,excellent service,3,in transit,paid
+A3602,sabrina kelly,ystanley@example.net,Lilies,8,$3.42,2025-02-15,2025-02-18,"on time, good flowers",1,deliverd,PAID
+A3211,susan jensen,jasoncampos@example.org,Tulips,1,$3.70,2025-03-19,2025-03-18,okayish,⭐⭐⭐⭐⭐,deliverd,paid
+A5404,kenneth moody,chavezjessica@example.com,roses,13,"3,97",2025-04-29,2025-05-03,Bad packaging 😠,⭐⭐⭐⭐,Pending,unpaid
+A7949,michelle adams,justinmiller@example.net,rose,17,$3.97,2025-05-27,2025-05-31,"on time, good flowers",★,in transit,unpaid
+A4263,kevin bullock,mhernandez@example.org,roses,15,$0.87,2025-02-26,2025-02-28,okayish,1,Delivered,PAID
+A3807, SEAN CAMERON ,rpalmer@gmail,Lilies,10,$1.72,2025-03-23,2025-03-24,Late delivery,4 stars,deliverd,Paid
+A9329,richard townsend,xfitzpatrick@example.org,roses,12,$2.31,2025-01-22,2025-01-22,okayish,5,Delivered,PAID
+A2974,justin weiss,dowens@example.net,Sunflowers,7,$4.46,2025-05-27,,Late delivery,5,Delivered,unpaid
+A7200,darlene welch,melissa88@example.org,Tulips,4,$2.23,2025-02-23,2025-02-23,Bad packaging 😠,4 stars,Delivered,paid
+A7252,jerome pham md,chelseachan@gmail,roses,4,$4.82,2025-01-28,2025-01-27,Will buy again,3,pending,Paid
+A2363,jeffrey reyes,jennifer57@example.net,Sunflowers,1,$2.20,2025-01-16,2025-01-18,Nice 🌹! nice!!,⭐⭐⭐⭐,Delivered,Paid
+A2260,darlene estrada,khardy@example.net,orchid,1,$3.11,2025-03-25,2025-03-26,Awesome!!!,2,pending,paid
+A9169,kelly hernandez,imorales@example.org,Roses,6,$3.61,2025-04-24,2025-04-26,Nice 🌹! nice!!,4 stars,deliverd,paid
+A4481,michael rich,fmiller@example.com,rose,17,$2.43,2025-02-16,2025-02-18,Bad packaging 😠,★,In Transit,Unpaid
+A1917,tina miller,xsharp@example.org,Sunflowers,ten,"2,80",2025-05-20,2025-05-23,okayish,3,Delivered,unpaid
+A6397, TODD YOUNG ,smithjessica@example.org,roses,8,$4.80,2025-05-05,2025-05-09,"on time, good flowers",,Pending,Paid

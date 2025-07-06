@@ -1,0 +1,11 @@
+has_link,has_attachment,contains_offer,is_reply,contains_money_words,target
+1,0,1,0,1,1
+0,0,0,1,0,0
+1,1,1,0,1,1
+0,0,0,0,0,0
+1,0,1,0,1,1
+0,1,0,1,0,0
+1,1,1,0,0,1
+0,0,0,1,0,0
+1,0,0,0,1,1
+0,0,0,0,0,0

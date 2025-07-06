@@ -1,0 +1,10 @@
+Name,Age,Gender,Email,Salary,JoinDate,Department
+Alice,29,Female,alice@example.com,55000,2021-04-23,HR
+bob,35,male,bob@example,60000,2020/03/15,Engineering
+Charlie,NaN,Male,charlie@example.com,70000,2019-07-01,engineering
+Alice,29,Female,alice@example.com,55000,2021-04-23,HR
+Eve,45,FEMALE,eve@company.com,,2022-01-10,HR
+Frank,33,Male,frank@example.com,1e6,2021-08-22,Finance
+Grace,28,Female,,62000,2023-06-01,Marketing
+,40,Male,noemail@none.com,50000,2021-11-11,Sales
+Heidi,38,Female,heidi@business.com,75000,2022-02-30,Sales

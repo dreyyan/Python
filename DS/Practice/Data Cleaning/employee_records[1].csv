@@ -1,0 +1,11 @@
+FullName,age,GENDER,email_address,salary,StartDate,dept
+john smith,27.0,Male, john.smith@email,55000.00,2020-01-15,Engineering
+JANE DOE,,FEMALE,jane.doe@example.com,58000,15/02/2020,hr
+mark zuckerb3rg,35.0,Male,markz@facebook..com,9.5e4,2019-13-01,Product 
+,42.0,,missing@none,,2021-03-30,Marketing
+Elon Musk,48.0,Male,elon@tesla.com, ,03-12-2022, Engineering
+John Smith,27.0,male,john.smith@email,55000.00,2020-01-15,engineering
+sarah o'connor,33.0,female,sconnor@skynet,68000,2020/05/15,Operations
+LANA LANG,29.0,FEMALE,lanalang@@example.com,57000,2021-06-01,HR
+PETER parker,,MALE,spiderman@web.org,,2022-02-29,marketing
+steve jobs,54.0,Male,steve@apple.com,150000.55,2018-07-30,Product
