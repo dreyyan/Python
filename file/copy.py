@@ -1,4 +1,4 @@
-def copyFile(oldFilename, newFilename) -> None:
+def copy_file(oldFilename, newFilename) -> None:
     with open(oldFilename, 'r') as oldFile:
         with open(newFilename, 'w+') as newFile:
             for line in oldFile:
@@ -8,4 +8,4 @@ def copyFile(oldFilename, newFilename) -> None:
             content = newFile.read()
             print(content)
  
-copyFile("code/Python/file/test.txt", "code/Python/file/newTest.txt")
+copy_file("code/Python/file/test.txt", "code/Python/file/newTest.txt")

@@ -1,4 +1,4 @@
-def checkKeyValue(dct, key) -> None:
+def check_key_value(dct, key) -> None:
     try:
         value: int = dct[key] 
     except KeyError as e:
@@ -6,5 +6,5 @@ def checkKeyValue(dct, key) -> None:
     else:
         print(value)
 
-checkKeyValue({'a': 1, 'b': 2, 'c': 3}, 'd')
-checkKeyValue({'a': 1, 'b': 2, 'c': 3}, 'a')
+check_key_value({'a': 1, 'b': 2, 'c': 3}, 'd')
+check_key_value({'a': 1, 'b': 2, 'c': 3}, 'a')

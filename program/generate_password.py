@@ -1,7 +1,7 @@
 import random
 import string
 
-def generatePassword(length, uppercaseCount, lowercaseCount, digitCount, characterCount) -> str:
+def generate_password(length, uppercaseCount, lowercaseCount, digitCount, characterCount) -> str:
     random.seed() # opt.: to sync random behavior
     word: str = ""
 
@@ -23,4 +23,4 @@ def generatePassword(length, uppercaseCount, lowercaseCount, digitCount, charact
 
     return word
 
-print(generatePassword(10, 3, 4, 2, 1))
+print(generate_password(10, 3, 4, 2, 1))

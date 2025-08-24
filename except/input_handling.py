@@ -1,4 +1,4 @@
-def inputNumber(num) -> None:
+def input_number(num) -> None:
     try:
         value = int(num)
     except ValueError as e:
@@ -6,5 +6,5 @@ def inputNumber(num) -> None:
     else:
         print(f"you chose: {num}")
         
-inputNumber("yes")
-inputNumber(3.5)
+input_number("yes")
+input_number(3.5)

@@ -1,4 +1,4 @@
-def readFile(filename) -> None:
+def read_file(filename) -> None:
     try:
         with open(filename, 'r') as file:
             data = file.read()
@@ -7,5 +7,5 @@ def readFile(filename) -> None:
     else:
         print(data)
         
-readFile("dne.txt")
-readFile("test.txt")
+read_file("dne.txt")
+read_file("test.txt")

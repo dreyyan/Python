@@ -1,12 +1,12 @@
-def removeLRWhitespace(string) -> str:
+def remove_LR_whitespace(string) -> str:
     return string.strip()
 
-def removeLWhitespace(string) -> str:
+def remove_L_whitespace(string) -> str:
     return string.lstrip()
 
-def removeRWhitespace(string) -> str:
+def remove_R_whitespace(string) -> str:
     return string.rstrip()
 
-print(removeLRWhitespace("     Welcome, user!        "))
-print(removeLWhitespace("     Welcome, user!"))
-print(removeRWhitespace("Welcome, user!         "))
+print(remove_LR_whitespace("     Welcome, user!        "))
+print(remove_L_whitespace("     Welcome, user!"))
+print(remove_R_whitespace("Welcome, user!         "))

@@ -1,4 +1,4 @@
-def readFile(filename) -> None:
+def read_file(filename) -> None:
     try:
         with open(filename, 'r') as file:
             data = file.read()
@@ -12,7 +12,7 @@ def readFile(filename) -> None:
     finally:
         print("* process finished")
 
-readFile("code/Python/file/test.txt")
+read_file("code/Python/file/test.txt")
 
 # Operations
 # .read()       | read whole content
