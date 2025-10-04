@@ -1,0 +1,5 @@
+Hello world!
+This is a small example for training a tokenizer.
+Large language models learn from tokens, not words.
+Each token represents a piece of meaning or structure.
+LLaMA and GPT both rely on tokenization to understand text.

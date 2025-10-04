@@ -1,0 +1,183 @@
+{"prompt": "How are you?", "response": "Kamusta ka?"}
+{"prompt": "Good morning", "response": "Magandang umaga"}
+{"prompt": "Did you eat already?", "response": "Kumain ka na ba?"}
+{"prompt": "Good afternoon", "response": "Magandang hapon"}
+{"prompt": "Good evening", "response": "Magandang gabi"}
+{"prompt": "Thank you very much", "response": "Maraming salamat"}
+{"prompt": "You're welcome", "response": "Walang anuman"}
+{"prompt": "I love you", "response": "Mahal kita"}
+{"prompt": "Please, can you help?", "response": "Pakikalunaan, pwede bang tumulong?"}
+{"prompt": "I’m sorry", "response": "Paumanhin po"}
+{"prompt": "Goodbye", "response": "Paalam"}
+{"prompt": "Hello, how’s it going?", "response": "Kamusta, kumusta na?"}
+{"prompt": "See you soon", "response": "Magkita tayo ulit"}
+{"prompt": "What’s your name?", "response": "Ano ang pangalan mo?"}
+{"prompt": "My name is John", "response": "Ang pangalan ko ay John"}
+{"prompt": "Where are you at?", "response": "Nasaan ka ngayon?"}
+{"prompt": "I’m right here", "response": "Nandito lang ako"}
+{"prompt": "I’m starving", "response": "Gutom na gutom ako"}
+{"prompt": "I feel tired", "response": "Pagod na ako"}
+{"prompt": "I’m so happy", "response": "Sobrang saya ko"}
+{"prompt": "Can you assist me?", "response": "Pwede mo ba akong tulungan?"}
+{"prompt": "Where’s the restroom?", "response": "Saan ang palikuran?"}
+{"prompt": "I don’t get it", "response": "Hindi ko naiintindihan"}
+{"prompt": "How much does this cost?", "response": "Magkano ang halaga nito?"}
+{"prompt": "I’d like to purchase this", "response": "Gusto ko itong bilhin"}
+{"prompt": "What’s the time?", "response": "Anong oras na?"}
+{"prompt": "I’m running late", "response": "Nahuli na ako"}
+{"prompt": "Where are you headed?", "response": "Saan ka pupunta?"}
+{"prompt": "I’m going to my house", "response": "Pupunta ako sa bahay ko"}
+{"prompt": "It’s nice to meet you", "response": "Masaya akong makilala ka"}
+{"prompt": "Stay safe", "response": "Mag-ingat ka"}
+{"prompt": "I miss you so much", "response": "Sobrang namiss kita"}
+{"prompt": "Congrats!", "response": "Binabati kita!"}
+{"prompt": "Happy birthday!", "response": "Maligayang kaarawan!"}
+{"prompt": "Merry Christmas!", "response": "Maligayang Pasko!"}
+{"prompt": "Happy New Year!", "response": "Manigong Bagong Taon!"}
+{"prompt": "I apologize", "response": "Humihingi ako ng paumanhin"}
+{"prompt": "Excuse me, please", "response": "Makikiraan po"}
+{"prompt": "I need assistance", "response": "Kailangan ko ng tulong"}
+{"prompt": "What is this thing?", "response": "Ano itong bagay na ito?"}
+{"prompt": "I really like it", "response": "Talagang gusto ko ito"}
+{"prompt": "I don’t want it", "response": "Ayoko nito"}
+{"prompt": "Come on, let’s go!", "response": "Halika, tara na!"}
+{"prompt": "Please wait for me", "response": "Pakihintay ako"}
+{"prompt": "Hurry, please!", "response": "Dali, pakikalunaan!"}
+{"prompt": "I’m doing fine", "response": "Okay lang ako"}
+{"prompt": "I’m feeling sick", "response": "May sakit ako"}
+{"prompt": "Wishing you a speedy recovery", "response": "Sana mabilis kang gumaling"}
+{"prompt": "I’m occupied", "response": "Abala ako"}
+{"prompt": "Give me a call", "response": "Tawagan mo ako"}
+{"prompt": "I’ll ring you up", "response": "Tatawagan kita"}
+{"prompt": "Where can I find it?", "response": "Saan ko ito makikita?"}
+{"prompt": "I misplaced it", "response": "Nawala ko ito"}
+{"prompt": "I found what I was looking for", "response": "Natagpuan ko na ito"}
+{"prompt": "I’m prepared", "response": "Handa na ako"}
+{"prompt": "Time to eat!", "response": "Kain na tayo!"}
+{"prompt": "This tastes amazing", "response": "Ang sarap nito"}
+{"prompt": "My stomach is full", "response": "Busog na ako"}
+{"prompt": "Can I get some water?", "response": "Pwede bang makahingi ng tubig?"}
+{"prompt": "I’m parched", "response": "Nauuhaw na ako"}
+{"prompt": "I want to rest now", "response": "Gusto ko nang magpahinga"}
+{"prompt": "Sleep well", "response": "Matulog nang maayos"}
+{"prompt": "I’m freezing", "response": "Giniginaw ako"}
+{"prompt": "It’s so hot today", "response": "Ang init ngayon"}
+{"prompt": "I’m feeling warm", "response": "Mainit ako"}
+{"prompt": "How’s the weather?", "response": "Ano ang lagay ng panahon?"}
+{"prompt": "It’s pouring outside", "response": "Malakas ang ulan"}
+{"prompt": "The sun is shining", "response": "Maaraw ngayon"}
+{"prompt": "I need medical attention", "response": "Kailangan ko ng doktor"}
+{"prompt": "Where’s the nearest hospital?", "response": "Saan ang pinakamalapit na ospital?"}
+{"prompt": "I got injured", "response": "Nasugatan ako"}
+{"prompt": "Watch out!", "response": "Mag-ingat!"}
+{"prompt": "I’m lost", "response": "Nawawala ako"}
+{"prompt": "Can you guide me?", "response": "Pwede mo ba akong ituro ang daan?"}
+{"prompt": "Go left", "response": "Kumaliwa"}
+{"prompt": "Turn to the right", "response": "Kumanan"}
+{"prompt": "Keep going straight", "response": "Dumiretso lang"}
+{"prompt": "Stop right here", "response": "Dito na huminto"}
+{"prompt": "I arrived early", "response": "Nauna akong dumating"}
+{"prompt": "What day is today?", "response": "Anong araw ngayon?"}
+{"prompt": "It’s Tuesday today", "response": "Martes ngayon"}
+{"prompt": "Tomorrow is Wednesday", "response": "Bukas ay Miyerkules"}
+{"prompt": "Yesterday was Sunday", "response": "Kahapon ay Linggo"}
+{"prompt": "I’m on my way", "response": "Papunta na ako"}
+{"prompt": "Hold on a second", "response": "Sandali lang"}
+{"prompt": "I forgot something", "response": "May nakalimutan ako"}
+{"prompt": "I recall now", "response": "Naalala ko na"}
+{"prompt": "What do you need?", "response": "Ano ang kailangan mo?"}
+{"prompt": "I want to leave", "response": "Gusto ko nang umalis"}
+{"prompt": "I’m departing now", "response": "Aalis na ako"}
+{"prompt": "Come over here", "response": "Halika dito"}
+{"prompt": "Take a seat", "response": "Umupo ka"}
+{"prompt": "Stand up now", "response": "Tumayo ka na"}
+{"prompt": "I’m studying now", "response": "Nagaaral ako ngayon"}
+{"prompt": "I’m at work", "response": "Nasa trabaho ako"}
+{"prompt": "I’m finished", "response": "Tapos na ako"}
+{"prompt": "It’s done", "response": "Tapos na ito"}
+{"prompt": "I need this item", "response": "Kailangan ko ito"}
+{"prompt": "Hand it to me", "response": "Ibigay mo sa akin"}
+{"prompt": "Take this", "response": "Kunin mo ito"}
+{"prompt": "I’m waiting for you", "response": "Hinihintay kita"}
+{"prompt": "I’m thinking about it", "response": "Pinag-iisipan ko"}
+{"prompt": "I’m in agreement", "response": "Sang-ayon ako"}
+{"prompt": "I don’t agree", "response": "Hindi ako sang-ayon"}
+{"prompt": "Everything’s fine", "response": "Ayos lang lahat"}
+{"prompt": "I’m thrilled", "response": "Nasasabik ako"}
+{"prompt": "I feel sad", "response": "Malungkot ako"}
+{"prompt": "I’m upset", "response": "Galit ako"}
+{"prompt": "Calm yourself", "response": "Kumalma ka"}
+{"prompt": "I’m afraid", "response": "Natatakot ako"}
+{"prompt": "No need to worry", "response": "Huwag kang mag-alala"}
+{"prompt": "It’s gorgeous", "response": "Maganda ito"}
+{"prompt": "It’s not pretty", "response": "Hindi maganda ito"}
+{"prompt": "It costs a lot", "response": "Mahal ito"}
+{"prompt": "It’s affordable", "response": "Mura ito"}
+{"prompt": "I’m puzzled", "response": "Nalilito ako"}
+{"prompt": "Please clarify", "response": "Paki-paliwanag"}
+{"prompt": "I get it now", "response": "Naiintindihan ko na"}
+{"prompt": "I’ll give it a try", "response": "Susubukan ko"}
+{"prompt": "Well done!", "response": "Magaling!"}
+{"prompt": "Keep going!", "response": "Ituloy mo!"}
+{"prompt": "I’m so proud", "response": "Napaka-proud ko"}
+{"prompt": "You’re very welcome", "response": "Walang anuman talaga"}
+{"prompt": "Sorry about that", "response": "Pasensya na doon"}
+{"prompt": "It’s all good", "response": "Walang problema"}
+{"prompt": "What went wrong?", "response": "Ano ang mali?"}
+{"prompt": "I’m okay", "response": "Ayos lang ako"}
+{"prompt": "I have to leave", "response": "Kailangan ko nang umalis"}
+{"prompt": "Return soon", "response": "Bumalik ka agad"}
+{"prompt": "I’ll return shortly", "response": "Bablik ako agad"}
+{"prompt": "I’m by myself", "response": "Mag-isa lang ako"}
+{"prompt": "I’m with my friends", "response": "Kasama ko ang mga kaibigan ko"}
+{"prompt": "I’m happy for your success", "response": "Masaya ako sa tagumpay mo"}
+{"prompt": "Best of luck!", "response": "Good luck!"}
+{"prompt": "I feel nervous", "response": "Kinakabahan ako"}
+{"prompt": "Take it easy", "response": "Mag-relax ka"}
+{"prompt": "I’m getting bored", "response": "Naiinip na ako"}
+{"prompt": "Let’s enjoy ourselves", "response": "Mag-enjoy tayo"}
+{"prompt": "This is so fun", "response": "Sobrang saya nito"}
+{"prompt": "I’m sleepy now", "response": "Inaantok na ako"}
+{"prompt": "Get up!", "response": "Gising na!"}
+{"prompt": "I’m already awake", "response": "Gising na ako"}
+{"prompt": "I need a break", "response": "Kailangan ko magpahinga"}
+{"prompt": "Time to leave", "response": "Oras na para umalis"}
+{"prompt": "I’m back home", "response": "Nasa bahay na ako"}
+{"prompt": "Welcome back home", "response": "Maligayang pagbalik sa bahay"}
+{"prompt": "I’m working now", "response": "Nagtatrabaho ako ngayon"}
+{"prompt": "I’m heading there", "response": "Papunta na ako diyan"}
+{"prompt": "I’m stuck in traffic", "response": "Naiipit ako sa trapik"}
+{"prompt": "Please help me out", "response": "Tulungan mo naman ako"}
+{"prompt": "I’m thankful", "response": "Nagpapasalamat ako"}
+{"prompt": "You’re so kind", "response": "Napakabait mo"}
+{"prompt": "I value this", "response": "Pinahahalagahan ko ito"}
+{"prompt": "I’m learning Tagalog", "response": "Natututo akong mag-Tagalog"}
+{"prompt": "Show me how", "response": "Ipakita mo sa akin"}
+{"prompt": "I know it", "response": "Alam ko ito"}
+{"prompt": "I’m clueless", "response": "Wala akong alam"}
+{"prompt": "What are you up to?", "response": "Ano ang ginagawa mo?"}
+{"prompt": "I’m having lunch", "response": "Kumakain ako ng tanghalian"}
+{"prompt": "I’m drinking coffee", "response": "Umiinom ako ng kape"}
+{"prompt": "I’m preparing food", "response": "Nagluluto ako ng pagkain"}
+{"prompt": "It smells wonderful", "response": "Ang bango nito"}
+{"prompt": "I’m buying groceries", "response": "Namimili ako ng groceries"}
+{"prompt": "I’m driving now", "response": "Nagmamaneho ako ngayon"}
+{"prompt": "I’m taking a walk", "response": "Naglalakad ako"}
+{"prompt": "I’m jogging", "response": "Tumatakbo ako"}
+{"prompt": "I’m singing a song", "response": "Kumakanta ako ng kanta"}
+{"prompt": "I’m dancing now", "response": "Sumasayaw ako ngayon"}
+{"prompt": "I’m reading a book", "response": "Nagbabasa ako ng libro"}
+{"prompt": "I’m writing a letter", "response": "Nagsusulat ako ng liham"}
+{"prompt": "I’m listening to music", "response": "Nakinig ako ng musika"}
+{"prompt": "I’m watching a movie", "response": "Nanonood ako ng pelikula"}
+{"prompt": "I’m playing a game", "response": "Naglaro ako ng laro"}
+{"prompt": "I’m working out", "response": "Nag-ehersisyo ako"}
+{"prompt": "I’m cleaning the house", "response": "Naglilinis ako ng bahay"}
+{"prompt": "I’m cooking rice now", "response": "Nagluluto ako ng kanin ngayon"}
+{"prompt": "I’m doing laundry", "response": "Naglalaba ako ng damit"}
+{"prompt": "I’m tired of waiting", "response": "Sawa na ako sa paghihintay"}
+{"prompt": "You’re on my mind", "response": "Iniisip kita"}
+{"prompt": "I’m dreaming of you", "response": "Nanaginip ako tungkol sa’yo"}
+{"prompt": "I’m hoping for the best", "response": "Umaasa ako ng maganda"}
+{"prompt": "I’m praying for you", "response": "Nagdadasal ako para sa’yo"}
+{"prompt": "May God bless you", "response": "Pagpalain ka ng Diyos"}
