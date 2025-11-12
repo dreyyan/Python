@@ -8,4 +8,4 @@ def menuDecorator(func):
 def greet(name) -> None:
     print(f"Hello, {name}!")
 
-greet("Adrian")
+greet("Joe")
